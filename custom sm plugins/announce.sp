@@ -22,7 +22,7 @@ public Plugin:myinfo =
  * Global variables
  **/
 	new String:Message[1024] = "Zoid's Announcement Plugin Successfully Loaded.";
-	new Interval = 30;
+	new Float:Interval = 30.0;
 	new Stopped=0;
  
 public OnPluginStart()
@@ -71,13 +71,10 @@ public Action:Command_Message(client, args)
 //Interval command
 public Action:Command_Interval(client, args)
 {
-	new String:arg[1024];
-	new String:full[256];
-
-	GetCmdArgString(arg,1024);
-	
-	PrintToChatAll("Interval changed to" + arg);
-	Interval = StringToInt(arg[0]);
+	new String:arg[20];
+	GetCmdArgString(arg, sizeof(arg));
+	Interval = StringToFloat(arg);
+	PrintToChatAll("Interval changed to %i", RoundFloat(Interval));
 	
 	return Plugin_Handled; // This always needs to be included at the end of an action, also stops function
 }
