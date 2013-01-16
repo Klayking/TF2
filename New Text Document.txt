@@ -1,0 +1,27 @@
+|steamID: Zoidberg
+|steamID32: STEAM_0:1:15659092
+|steamID64: http://steamcommunity.com/profiles/76561197991583913
+|customURL: http://steamcommunity.com/id/ZoidbergWill
+|steamrepURL: http://steamrep.com/profiles/76561197991583913
+
+Hey.
+Just checking if you have the new maps that we wanna play in mixes, in addition to the usual 4 or 5.
+
+
+Links:
+ftp://184.22.121.73/Maps/Competitive/Current%20Rotation/cp_obscure_remake_rc1.zip
+ftp://184.22.121.73/Maps/Competitive/Current%20Rotation/cp_process_b10fix.zip
+ftp://184.22.121.73/Maps/Competitive/Current%20Rotation/cp_snakewater.zip
+
+
+Installing Custom Maps:
+	Step 1: Download all 3 maps.
+Step 2: Unzip the maps.
+Step 3: Copy the unzipped maps to "Steam/steamapps/username/team fortress 2/tf/maps
+	(Where username is your Steam username of course)
+
+
+Also tr_walkway is there, if you are interested in practising and don't have it:
+ftp://184.22.121.73/Maps/Training/tr_walkway_rc2.bsp.zip
+
+Thanks, and I appreciate it if you have the maps or are downloading them now.

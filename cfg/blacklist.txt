@@ -1,0 +1,245 @@
+
+//Zoidberg's Comprehensive Blacklist (Based on Snap’s Comprehensive Blacklist)
+//Updated: 22 Dec 2012
+
+"item_whitelist"
+{
+	"unlisted_items_default_to"	"1" 
+
+
+//Multiclass
+
+	//Primary
+
+	//Secondary
+
+	"The Reserve Shooter"		"0"
+	"The Half-Zatoichi"		"0"
+
+	//Melee
+	
+//Scout
+
+	//Primary
+
+	"The Force-A-Nature"		"0"
+	"The Shortstop"			"0"
+	"The Soda Popper"		"0"
+	"Baby Face’s Blaster"		"0"
+
+	//Secondary
+
+	"The Winger"			"0"
+	"Pretty Boy’s Pocket Pistol"	"0"
+	"The Flying Guillotine"		"0"
+    	"Promo Flying Guillotine"	"1"
+	"Bonk! Atomic Punch"		"0"
+	"Crit-a-Cola"			"0"
+	"Mad Milk"			"0"
+
+	//Melee
+
+	"The Sandman"			"0"
+	"The Candy Cane"		"0"
+	"The Boston Basher"		"0"
+	"Three-Rune Blade"		"0"
+	"Sun-on-a-Stick"		"0"
+	"The Fan O’ War"		"0"
+	"The Atomizer"			"0"
+	"The Wrap Assassin"		"0"
+
+//Soldier
+
+	//Primary
+
+	"The Black Box"			"0"
+	"The Liberty Launcher"		"0"
+	"The Cow Mangler 5000"		"0"
+	"The Beggar’s Bazooka"		"0"
+
+	//Secondary
+
+	
+	"The Buff Banner"		"0"
+	"The Battalion’s Backup"	"0"
+	"The Concheror"			"0"
+	"The Mantreads"			"0"
+	"The Righteous Bison"		"0"
+
+	//Melee
+
+	"The Disciplinary Action"	"0"
+	"The Market Gardener"		"0"
+
+//Pyro
+
+	//Primary
+
+	"The Backburner"		"0"
+	"The Degreaser"			"0"
+	"The Phlogistinator"		"0"
+
+	//Secondary
+
+	"The Flare Gun"			"0"
+	"The Detonator"			"0"
+	"The Manmelter"			"0"
+	"The Scorch Shot"		"0"
+
+	//Melee
+
+	"The Axtinguisher"		"0"
+	"The Postal Pummeler"		"0"
+	"The Homewrecker"		"0"
+	"The Maul"			"0"
+	"The Powerjack"			"0"
+	"The Back Scratcher"		"0"
+	"Sharpened Volcano Fragment"	"0"
+	"The Third Degree"		"0"
+	"The Neon Annihilator"		"0"
+    	"Promo Neon Annihilator"	"0"
+
+//Demoman
+
+	//Primary
+
+	"The Loch-n-Load"		"0"
+	"Ali Baba’s Wee Booties"	"0"
+	"The Bootlegger"		"0"
+    	"The Loose Cannon"		"0"
+
+	//Secondary
+
+	"The Scottish Resistance"	"0"
+	"The Chargin’ Targe"		"0"
+	"The Splendid Screen"		"0"
+
+	//Melee
+
+	"The Eyelander"			"0"
+	"Nessie’s Nine Iron"		"0"
+	"The Scotsman’s Skullcutter"	"0"
+	"The Ullapool Caber"		"0"
+	"The Claidheamohmor"		"0"
+	"The Persian Persuader"		"0"
+	"The Horseless Headless Horseman's Headtaker"	"0"
+
+
+//Heavy
+
+	//Primary
+
+	"Natascha"			"0"
+	"The Brass Beast"		"0"
+	"Tomislav"			"0"
+ 	"Promo Huo Long Heatmaker"	"0"
+	"The Huo Long Heatmaker"	"0"
+
+
+	//Secondary
+
+	"The Family Business"		"0"
+	"The Sandvich"			"0"
+    	"The Robo-Sandvich"		"1"
+	"The Dalokohs Bar"		"0"
+	"Fishcake"			"0"
+	"The Buffalo Steak Sandvich"	"0"
+	"The Robo-Sandvich"		"0"
+
+	//Melee
+
+	"The Killing Gloves of Boxing"	"0"
+	"Gloves of Running Urgently"	"0"
+	"Warrior’s Spirit"		"0"
+	"Fists of Steel"		"0"
+	"The Eviction Notice"		"0"
+	"The Holiday Punch"		"0"
+
+// Engineer
+
+	//Primary
+
+	"The Frontier Justice"		"0"
+	"The Widowmaker"		"0"
+	"The Pomson 6000"		"0"
+    	"The Rescue Ranger"		"0"
+
+	//Secondary
+
+	"The Wrangler"			"0"
+	"The Short Circuit"		"0"
+
+	//Melee
+
+	"The Gunslinger"		"0"
+	"The Southern Hospitality"	"0"
+	"The Jag"			"0"
+	"The Eureka Effect"		"0"
+
+//Medic
+
+	//Primary
+
+	"The Overdose"			"0"
+
+	//Secondary
+
+	"The Quick-Fix"			"0"
+    	"The Vaccinator" 		"0"
+
+	//Melee
+
+	"The Vita-Saw"			"0"
+	"The Solemn Vow"		"0"
+	"The Amputator"   		"0"
+
+//Sniper
+
+	//Primary
+
+	"The Huntsman"			"0"
+	"The Sydney Sleeper"		"0"
+	"The Bazaar Bargain"		"0"
+	"The Machina"			"0"
+	"The Hitman’s Heatmaker"	"0"
+
+	//Secondary
+
+	"The Cleaner’s Carbine"		"0"
+	"Jarate"			"0"
+	"The Razorback"			"0"
+	"Darwin’s Danger Shield"	"0"
+	"The Cozy Camper"		"0"
+			
+	//Melee
+
+	"The Tribalman’s Shiv"		"0"
+	"The Bushwacka"			"0"
+	"The Shahanshah"		"0"
+
+//Spy
+
+	//Secondary
+
+	"The Ambassador"		"0"
+	"L’Etranger"			"0"
+	"The Enforcer"			"0"
+	"The Diamondback"		"0"
+
+	//Melee
+
+	"Your Eternal Reward"		"0"
+	"Conniver’s Kunai"		"0"
+	"The Big Earner"		"0"
+	"The Spy-cicle"			"0"
+ 	"The Wanga Prick"		"0"
+
+	//PDA
+
+	"The Dead Ringer"		"0"
+
+	//Buildings
+	
+    	"Promo Red-Tape Recorder"       "0"
+    	"The Red-Tape Recorder"         "0"
+}

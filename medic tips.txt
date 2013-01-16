@@ -1,0 +1,26 @@
+Zoidberg's guide to Medic
+
+Medic Health: 150
+Remember rockets and pipes can do 100 damage, so try keep your health above 100, but remember it does regen, pretty quickly.
+
+Speed 107 %, running forward.
+Faster than all classes, except scout.
+
+Medigun: Max 8s of uber.
+Builds in about 40 s, 
+
+Kritz: Patient gets guaranteed critical hits for 8s.
+Builds in about 32s.
+
+Healing speed is max 72hp/s, base rate is 24/s
+
+1. Don't drop uber.
+Ubering is actually quite an art.
+
+2. Dodging and Running.
+3. Boosting people.
+4. Healing speeds.
+5. Uber charge times
+6. Advantages and Disadvantages
+7. Weapon loadouts
+8. These rules.

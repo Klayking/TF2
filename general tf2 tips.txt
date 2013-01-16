@@ -1,0 +1,33 @@
+Zoidberg's guide to getting into TF2 competitively
+
+The most common form of competitive Team Fortress 2 in South Africa is 6v6. 6 players on each team. Generally we play maps with 5 control points. They are the most popular in the competitive scene, globally. 
+
+The common rollout for a team is 2 scouts, 2 soldiers, a demo, and a medic.
+
+The jobs for each class:
+
+The Scouts:
+
+The Soldiers:
+
+The Demo:
+
+The Medic:
+
+Something someone or some players must do:
+
+
+The class limits for 6v6 in most leagues is:
+	1 x Medic, Heavy, and Demo.
+	2 x any other class (Scout, Sniper, Soldier, Engineer, Spy and Pyro)
+
+The weapon limits are:
+	All stock weapons and re-skins, and
+	The Kritzkrieg, Blutsauger, Ubersaw, and Crusader's Crossbow
+
+The popular maps are:
+	cp_granary
+	cp_badlands
+	cp_gullywash_final
+	cp_freight_final1
+	cp_gravelpit

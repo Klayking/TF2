@@ -1,0 +1,15 @@
+SourceTV
+
+http://ozfortress.com/showthread.php?t=25646
+
+Inf Health and Ammo
+http://forums.tf2jump.com/index.php?topic=566.0
+
+
+Video Player Banner - This is displayed on the player when your channel is offline.
+
+Image should be 16:9 to fill the entire video player.
+
+
+Header Image - This is displayed at the top of your channel page above the title of your broadcast
+Image must be exactly 640x125px

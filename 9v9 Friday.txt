@@ -1,0 +1,65 @@
+23 Nov 9v9 Participants
+=================
+Zoidberg - Medic
+Old Man Joe - Pyro
+BigMcAgro - Engi
+Kilroy - 
+Fish - 
+Error - Sollie,Demo,Scout,Sniper,Spy
+Geno - Soldier, Scout, Sniper
+Auto-bot - Heavy, Sniper, Scout
+Legacy - Sniper
+Forsaken
+Kenny
+Fragmaker
+Cornholio
+Valac
+Joe Moer
+Fury
+Scarecrow
+Schnappi
+
+Reserves
+==================
+Pacifist - Reserve
+Delta - Maybe
+Gomz - maybe
+
+Maps
+===
+pl_upward	
+cp_foundry
+koth_lakeside		
+cp_gullywash_final1	
+pl_badwater	
+cp_granary
+cp_gravelpit	
+
+ctf_turbine_pro_rc2	
+pl_swiftwater_ugc	
+koth_pro_viaduct_rc3	
+koth_ashville_rc1
+
+2.2.1 Banned Unlocks List. Unlocks released during the season are banned.
+
+The following unlocks are banned:
+
+High-Five Taunt
+Bombinomicon
+Bootie Time
+Jingle Belt
+Enforcer
+Holiday Punch
+Pomson
+Phlogistinator
+Vita-Saw
+Cleaner’s Carbine
+Pretty Boy’s Pocket Pistol
+Red-Tape Recorder
+Huo-Long Heater
+2.2.2 Some set hats are not allowed. Other hats and miscs are allowed.
+
+The following set hats are banned from use:
+
+Ol’ Snaggletooth
+Familiar Fez

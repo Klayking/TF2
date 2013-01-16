@@ -1,0 +1,59 @@
+
+
+
+
+Additional
+Training Maps
+Rates
+Custom HUDs
+
+
+Tr_Walkway
+Tr_walkway is a single player training map for Team Fortress 2, it features bots (computer controlled players) walking on a track. There are loads of different options to customize the playfield, making walkway a good place to practice a wide array of TF2 techniques and general aim.
+http://www.gamebanana.com/maps/107794
+
+Tips,etc For Getting Into TF2 Competitive
+http://tf2.co.za/forum/tutorials-tips-settings/check-what-you-need-to-know-to-be-a-competitive-player/
+
+If you are getting chokes, it means you are missing out on packets being sent or received, so try changing "rate" in console, and increasing it. Or try lowering cl_cmdrate and cl_updaterate. They will do a similar thing, but if your internet isn't too great, then lowing the cl_updaterate and cl_cmdrate are a better idea.
+As in: http://www.reddit.com/r/truetf2/comments/14xxgx/stutteringfreezing_with_no_apparent_change_in_fps/c7hg3np
+If you lag even when hosting your own server, and it appears jittery then, then it is probably another issue, not related to the network.
+Edit: The cl_cmdrate and cl_updaterate need to be above about 30, well that's what the min is on most servers, and the max is usually between 66 and 100. The server will force your rates into their range if they're out of that range.
+
+As demo you should always call your damages though, because the scouts main job is cleaning up the enemies that you and the soldiers do damage to, so call if you do 100 damage to the enemy medic or demo, so the scouts can try help you get a pick. That's just a little bit of advice that might help with you getting more support, because then you have more freedom to sticky trap and support the soldiers and pushes.
+
+I really like: ETF2L Guide http://etf2l.org/new/
+Just skim through it at first, if you don't have lots of time, but it's worth giving the whole thing a read, I still refer to it occasionally. It explains a lot about getting into competitive. Youtube is a good place to find guides and tips for all classes. What are your main classes?
+TF2Lobby http://tf2lobby.com/ is a useful place for finding pick-ups.
+True TF2 - A guide to helpful links and threads that have appeared in the /r/truetf2 subreddit https://docs.google.com/document/d/1acfFfZnaxgSupM0Zx8NxUBBktnSIyIFnfvqtEan8-lo/edit
+That's another useful set of links and threads.
+I hope these help, and contact me if you need more help. Zoidberg on Steam
+
+Byte and Kaidus are demo's I really like. Byte's youtube has more POV's with commentary and analysis.
+I am a comp. medic, but trying to learn demoman, and the things that I've noticed are important with demo in 6v6 is putting on pressure and dealing damage, and making sure you call your damage, so the scouts can get the picks. Sticky traps are also important, and stickies in general, especially with ubers.
+There is a lot of pressure on the demo in 6v6, with less in HL, because he deals the most damage. Make sure you stick with a soldier or scout, because you can get owned by scouts at close range, even with good DM.
+TF2 Starter Guide: Demo
+I hope this helped. Go ahead and add me on Steam, if you need anything more. Zoidberg on Steam
+P.S. Demo roundtables are also really interesting for more advice from prem level demo's.
+
+I don't know if this is help regarding 6v6, highlander, or just pub playing.
+6v6: Uber generally goes to demo first, then soldiers, most of the time. Situationally Scout/Pyro. Demo, because he does the most damage, but will probably run out of ammo, so then you flash the soldiers. Ubering a demo and soldier at the same time is often a good plan.
+Ubers are normally used for pushes or defending a point. Uber is one of the biggest deciders in competitive tf2 when it comes to advantages, so use it to get picks and a greater advantage, especially if you can kill their medic without you dying.
+The best way to improve generally as a medic is playing more 6v6 or whatever game mode you want to play, but even medic'ing in pub is some good practice. Game sense helps a lot in 6v6, especially as medic.
+Try stay in cover as much as you can, while keeping something between you and your enemies, like the train at badlands mid, or a wall. Watch for pipes and rockets though, and call any enemy near you, so whoever you are healing can take them out.
+Spies and snipers are always something you have to look out for, spies are suspicious often, and generally you can saw them, if you're careful. Snipers are scarier, especially good snipers, and then the best idea is sticking behind cover as much as possible.
+Loadout: Ubersaw is the most common saw in competitive, because of the 25% ubercharge on a hit.
+The choice of syringe gun depends on you, but you shouldn't be using it too much anyway, but recently I started using the crossbow, cuz it does a decent amount of damage on hits, and can heal teamies occasionally from across the battle field while you're making your escape, I have seen some amazing kills and saves with the crossbow, which inspired me to use it.
+Some guys like the blutsauger though, cuz of the hp you get on a hit, but I have never used it much, but used the stock syringe gun for a long time, when I started playing competitively, and is better if you are going to get attacked in close quarters.
+I hope this helps, and that I covered most of it. Zoid on Steam
+
+In 6v6, it's basically between the Stock Syringe Gun and Crossbow ( Our league doesn't allow the overdose.)
+I used to use the Syringe Gun, and did for a long time, it does more damage faster, and works well on scouts or soldiers in close quarters, but it is risky, because you have to be quite close to your enemy for it to do more damage than the bow, which might be useful if you an aggressive soldier or scouts jumping into your combo, it can defend you well, and add an advantage for your team.
+Recently I have started using the Crossbow, and I am really enjoying it, the fact that you can give allies health from a distance is very useful sometimes, if you're making an escape. It also shoots quite accurately over a long distance, which leads to me getting quite a few kills in pick-ups or just giving my teammate the advantage he needs, without me getting too close to the danger. I also find it useful, because if you're running away, and have some distance between you and the scout or whatever chasing you, shooting an arrow past the corner can often get a kill or at least get him to lower hp, for a saw maybe. This might not work in higher levels of competitive, but it works at the level our pick-ups/mixes/scrims are in my country.
+Lots of people will say you shouldn't be using your needles or arrows at all, but occasionally you have to, and which gun you are using, a fair amount of the time, could decide whether you live or die. Both of these guns do have quite different projectile paths and situational advantages, but it's probably best sticking with the one you're most comfortable, unless you want to use certain guns on certain maps, where you think you'll be running more and have more distance between you and the enemies, or be in close quarters more. Most competitive maps have a fair mixture of close quarters and open yards, and I prefer the crossbow, because I am used to it and quite accurate with it these days, but I used to use the syringe gun lots, and I know prem-level medic's that use both, so I think it's up to you to decide with which one you're more comfortable, but I do say the Crossbow is worth giving a try, even if you said you hate it.
+Good luck, and may you own every scout that comes your way, with needles or arrows. I hope this helped.
+
+As a medic, you never wanna get too far away from the players you are supposed to be pocketing, and in HL it is pretty much the heavy and demo, so it matters most that they are at least at full hp, that is your main priority, so they don't die, then it's the other classes, especially before you go on the offensive, unless you have some other huge advantage. Those other guys that want/need your heals must come to you though. If you and the pockets aren't moving, then you can travel a bit with the guys leaving you, before returning to your pockets, because then they have a higher chance of having a boost when engaging the enemies, but as a general rule try keep your pockets with at least full health, then the other classes to full health, then boosting the pockets, and then the other guys.
+
+
+

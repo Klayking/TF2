@@ -1,0 +1,17 @@
+L 01/11/2013 - 19:48:54: SourceMod error session started
+L 01/11/2013 - 19:48:54: Info (map "trade_plaza") (file "errors_20130111.log")
+L 01/11/2013 - 19:48:54: [SDKTOOLS] Sigscan for FireOutput failed - Disabling detour to prevent crashes
+L 01/11/2013 - 19:48:56: [SM] Warning(s) encountered in translation file "soap_tf2dm.phrases.txt"
+L 01/11/2013 - 19:48:56: [SM] Ignoring translation to invalid language "#format" on line 5.
+L 01/11/2013 - 19:48:56: [SM] Warning(s) encountered in translation file "soap_tf2dm.phrases.txt"
+L 01/11/2013 - 19:48:56: [SM] Ignoring translation to invalid language "#format" on line 5.
+L 01/11/2013 - 19:48:56: [SDKTOOLS] "FindEntityByClassname" not supported by this mod, falling back to IServerTools method.
+L 01/11/2013 - 19:49:24: [SM] Plugin encountered error 25: Call was aborted
+L 01/11/2013 - 19:49:24: [SM] Native "SetFailState" reported: Map spawns missing. Map: trade_plaza
+L 01/11/2013 - 19:49:24: [SM] Displaying call stack trace for plugin "soap_tf2dm.smx":
+L 01/11/2013 - 19:49:24: [SM]   [0]  Line 251, C:\Users\Lange\Documents\Coding Projects\GitHub\SOAP-TF2DM\addons\sourcemod\scripting\soap_tf2dm.sp::OnMapStart()
+L 01/11/2013 - 19:49:26: [SM] Plugin encountered error 25: Call was aborted
+L 01/11/2013 - 19:49:26: [SM] Native "SetFailState" reported: Map spawns missing. Map: trade_plaza
+L 01/11/2013 - 19:49:26: [SM] Displaying call stack trace for plugin "soap_tf2dm.smx":
+L 01/11/2013 - 19:49:26: [SM]   [0]  Line 251, C:\Users\Lange\Documents\Coding Projects\GitHub\SOAP-TF2DM\addons\sourcemod\scripting\soap_tf2dm.sp::OnMapStart()
+L 01/11/2013 - 19:50:25: Error log file session closed.
