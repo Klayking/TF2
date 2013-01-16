@@ -11,7 +11,7 @@
 // public function that declares all info where Plugin is the class/struct
 public Plugin:myinfo =
 {
-	name = "TF2CSA Timed Announcer",
+	name = "Unfinnished TF2CSA Timed Announcer",
 	author = "Zoidberg",
 	description = "Plugin for TF2CSA, and the Trinity Trade Server",
 	version = "0.1",
