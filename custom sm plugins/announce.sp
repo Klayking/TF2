@@ -28,10 +28,10 @@ public Plugin:myinfo =
 public OnPluginStart()
 {
 	PrintToServer("Zoid's Announcement Plugin Successfully Loaded.");
-	RegConsoleCmd("sm_Message", Command_Message, "Sets the message for the announcement.");
-	RegConsoleCmd("sm_Interval", Command_Interval, "Sets interval between announcements, in seconds.");
-	RegConsoleCmd("sm_StartMessages", Command_StartMessages, "Starts Timer again.");
-	RegConsoleCmd("sm_StopMessages", Command_StopMessages, "Stops Timer.");
+	RegAdminCmd("sm_message", Command_Message, ADMFLAG_GENERIC,  "Sets the message for the announcement.");
+	RegAdminCmd("sm_interval", Command_Interval, ADMFLAG_GENERIC,  "Sets interval between announcements, in seconds.");
+	RegAdminCmd("sm_startmessages", Command_StartMessages, ADMFLAG_GENERIC,  "Starts Timer again.");
+	RegAdminCmd("sm_stopmessages", Command_StopMessages, ADMFLAG_GENERIC,  "Stops Timer.");
 	TimerOn();
 }
 
