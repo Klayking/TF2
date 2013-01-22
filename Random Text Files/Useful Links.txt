@@ -13,3 +13,7 @@ Image should be 16:9 to fill the entire video player.
 
 Header Image - This is displayed at the top of your channel page above the title of your broadcast
 Image must be exactly 640x125px
+
+
+M0nster's Guide to Medic (2011)
+http://pastebin.com/0M7VCtHb

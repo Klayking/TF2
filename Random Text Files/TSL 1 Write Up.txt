@@ -1,0 +1,675 @@
+General Rules
+1. General Points
+
+1.1 ETF2L Timezone = CET/CEST
+
+1.2 Scheduled matches have to be entered on the League Calendar
+
+1.3 Separate schedule & match deadline for every match – Default Date for unscheduled matches
+
+1.4 Use the match comments to record agreements on ringers, servers and other cases
+
+2. Players
+
+2.1 All players are welcome
+
+2.2 Only players with correctly entered Steam IDs are eligible
+
+2.3 One team change per competition allowed
+
+2.4 Every player has to record Demos
+
+2.5 Abusive chat, nicknames and avatars are not welcome
+
+2.6 No acccount sharing and multi accounts
+
+3. Match Rules
+
+3.1 League Configs must be used for all matches
+
+3.2 Status & Scoreboard screenshots required
+
+3.3 Scheduled Matches can only be postponed by using a Wildcard or by contacting an admin (if both teams agree)
+
+3.4 A delay of 15 minutes is allowed
+
+3.5 Switching line-ups or hijacking teams is not allowed
+
+3.6 Player changes during a match
+
+3.7 Only authorized spectators allowed
+
+3.8 Teams may request a pause if problems occur
+
+3.9 Warnings may lead to point deduction or removal from a competition
+
+4. Maps
+
+4.1 5CP maps
+
+4.1.1 Timelimit: 30 minutes
+
+4.1.2 Winlimit: Point difference of 5
+
+4.1.3 Golden Cap: Decider round in case of a draw
+
+4.2 King of the Hill maps
+
+4.2.1 Timelimit: None
+
+4.2.2 Winlimit: First to 3
+
+4.3 Attack/Defence and Payload maps
+
+4.3.1 Timelimit: None
+
+4.3.2 Winlimit: Best of 3
+
+4.3.3 ABBA format
+
+4.5 Capture-the-files maps
+
+4.5.1 Timelimit: 3x 10 minutes
+
+4.5.2 Winlimit: First to 5, best of 3
+
+4.5.3 Golden Cap: Decider round in case of a draw
+
+4.6 Deciding sides: Melee fight if teams do not agree
+
+4.7 Map specific rules
+
+4.7.1 pl_upward: No killing during the setup time
+
+4.7.2 p_badwater: Building in BLU spawn is allowed
+
+5. Servers
+
+5.1 Be reasonable regarding servers
+
+5.2 European server recommended
+
+5.3 Servers need to be password proteced
+
+5.4 Unusual server settings may be considered cheating
+
+6. Cheats & Scripts
+
+6.1 Bug-Using is not allowed
+
+6.2 Cheats are not allowed
+
+6.3 Normal Crouch Jump bind allowed
+
+6.4 Taunt slide bug is forbidden
+
+6.5 VAC Bans
+
+7. Admins
+
+7.1 Requesting admin help
+
+7.2 Admins on the staff page
+
+7.3 Admin discretion
+
+Explanation: “Wildcard”
+
+Explanation: “Map Pick System”
+
+Explanation: “Map Elimination System”
+
+Explanation: “Heavy Fist Fight”
+
+Explanation: “Loser’s Pick System”
+
+
+1. GENERAL POINTS
+
+ 
+
+
+1.1 ETF2L Time zone = CET/CEST
+
+ETF2L announces all times in either Central Europe Time (CET) or Central European Summer Time (CEST). All matches have to be entered in CET/CEST. A clock displaying the current time can be found on the homepage. [Link]
+
+1.2 Scheduled matches have to be entered on the League Calendar
+
+All scheduled matches are supposed to be entered on the ETF2L Calendar. Teams may only claim a Default Win if the match has been entered on the calendar.
+
+1.3 Separate schedule & match deadline for every match – Default Date for unscheduled matches
+
+Every match has its own schedule and match deadline. All deadlines can be found on our [Calendar] or at the [Events] subpage.
+
+If a match is not arranged by the schedule deadline, admins will decide a Default Date for that match. After that, the date can only be changed if both teams agree on another date or if one team takes a wildcard.
+
+A wildcarded match will receive a new default date 7 days after the wildcard was used.
+
+Please note that wildcards will be disabled once the catch-up week begins.
+
+1.4 Use the match comments to record agreements on mercs, servers and other cases
+
+We encourage using the match comments to keep in touch with an opponent. Any agreement between two teams regarding the use of mercs or servers must be recorded on the relevant match page. If anything requires verification it MUST be documented either by a screenshot of the original conversation or by leaders from both teams providing confirmation in the match comments.
+
+If your opponent allows a merc, you are expected to extend the same courtesy to them.
+
+
+2. PLAYERS
+
+ 
+
+
+2.1 All players are welcome
+
+Any player of any country is welcome to play in the ETF2L.
+
+2.2 Only players with correctly entered Steam IDs are eligible
+
+Players are eligible only when they have correctly entered their Steam ID and are verified on their team’s roster.
+
+2.3 One team change per competition allowed
+
+A “team change” counts as joining another team and playing a competitive match for that team. Every player is allowed to change team once during a competition. A player changing from a dead team does not count as real change.
+
+2.4 Every player has to record Demos
+
+Demos can be requested by an admin or any player of the opposing team.
+Admins may request demos up to 14 days after the match was played. They can request as many demos as they require.
+The opposing team can request demos up to 48 hours after the match was scheduled to start. They can request demos from up to 2 players for each map.
+A player whose demos have been requested has 72 hours to upload the demo, starting from the time the request was made.
+Failure to supply a requested demo will be punished.
+
+2.5 Abusive chat, nicknames and avatars are not welcome
+
+Try not to use the chat function during a match unless it is in a positive manner. Any offensive chat as well as spamming binds may lead to a warning for your team. Chat abuse and racist or offensive names/steam avatars will not be tolerated and may be punished with warnings or bans.
+
+2.6 No account sharing and multi accounts
+
+Any player is allowed only one active ETF2L account at any time. One person using multiple accounts in ETF2L matches or multiple players using one account is not allowed. Multiple players from the same household (family, close friends, roommates, …) that may be sharing the same IP address should notify admins and use separate ETF2L and Steam accounts.
+Players caught using multiple ETF2L accounts or allowing use of their Steam account to a third party in official matches may face punishment ranging from a formal warning to reversal of match results and a major warning for fraud or a league ban. Each case will be reviewed individually and penalties will be assigned based on severity of the offense and its impact on the competition.
+If you wish to change etf2l accounts or change the attached Steam ID, contact admins and they will change it for you. Do not play on more than one ETF2L account in the same season.
+
+
+3. MATCH RULES
+
+ 
+
+
+3.1 League Configs must be used for all matches
+
+All ETF2L matches have to be played with up-to-date versions of our [League Configs].
+
+3.2 Status & Scoreboard screenshots required
+
+One member of each team has to take a status screenshot before a match is starting and after every player switch. A screenshot of the final score has to be taken at the end of every map/round. Please note that a scoreboard screenshot is not sufficient for all attack/defense maps as it does not show the winner – the screenshot explicitly declaring one team to be the winner is required instead. When submitting the result, a team leader has to upload all relevant screenshots.
+If any required match screenshots are missing after 72 hours, and the result has not been verified by the teams, both teams will receive a minor warning.
+Missing status screenshots will be punished with a minor warning no matter if the result has been verified by the teams. The second violation of this rule will be punished with a major warning.
+Warnings for missing screenshots can be removed if the missing screenshot is provided later.
+
+3.3 Scheduled Matches can only be postponed by using a Wildcard or by contacting an admin (if both teams agree)
+
+Once a game is scheduled and entered in the Calendar, it can only be postponed beyond the match deadline if both teams agree or if one team uses a Wildcard. If both teams agree to the reschedule (for example because there is a LAN) and want to postpone the match please contact an admin an explain the case. Both teams will receive a warning for any match unplayed after its match deadline.
+
+3.4 A delay of 15 minutes is allowed
+
+A delay of 15 minutes for showing up for a match is allowed. If a team fails to have a complete team ready on the server 15 minutes after the match was supposed to start, the other team may claim a Default Win.
+
+After a map change, both teams have 10 minutes to organize, starting when the first player joins the server. If a team fails to have a complete team ready on the server after that, the other team can claim a Default Win, however only for the map concerned, not for the entire match.
+
+For claiming a Default Win, please make a status screenshot of your team available on the server at match time, gather any evidence you think concludes the case (demos or server logs) and contact an admin about the issue as soon as possible.
+
+3.5 Switching line-ups or hijacking teams is not allowed
+
+A team may not be replaced in a competition by a new team or lineup without admin permission. Teams can be qualified as ‘new’ if none or very few of the lineup at the start of the season or cup are still active and participating. We will look at teams breaking this rule and holds the right to remove them from the league. Any decisions made will be at the full discretion of the admin team and all circumstances will be taken into account. If your team is facing extreme lineup changes please contact an admin.
+
+3.6 Player changes during a match
+
+Teams are allowed to switch players after a map change (as long as they are entered correctly on the team roster). Player changes during a map is only permitted if a player is having technical problems. Under no circumstances a team may have more than 6 players on the server.
+
+3.7 Only authorized spectators allowed
+
+Only spectators authorized by the league, or for the use of Source TV, are allowed.
+
+3.8 Teams may request a pause if problems occur
+
+Teams may request a pause at any time during a match. Reasons for pausing can include:
+
+- Player drop
+
+- Server problems
+
+- The match is unplayable due to network issues
+
+If you need to pause, you must clearly request a pause and give a reason for it (for example: “Pause please, player drop”). The other team is then required to pause at the first appropriate time (e.g. not in the middle of a push). Teams must pause within 15 seconds of being asked. Not responding to a pause request will lead to penalties like a minor warning accompanied with the forfeit of the round in question, or, in extreme cases, a major warning and forfeit of the map.
+
+You may not resume the game under any circumstances without giving proper warning to the other team.
+
+Each team has the right to one pause per map.
+
+A pause may not last longer than 5 minutes.
+
+If your opponent allows a pause longer than 5 minutes or more than one pause you are expected to extend the same courtesy to them.
+
+3.9 Warnings may lead to point deduction or removal from a competition
+
+If a team receives enough warnings, points will be deducted from that team for the running season. Some warnings, usually for missing match media, can be removed when the missing items are provided later. This includes both, minor and major warnings with the exception that if a removable minor warning stacked with two more minor warnings to a major warning, the major warning will not be removed. Points will be deducted, and warnings applied as follows:
+
+General System
+
+3 Minor Warnings = 1 Major Warning
+1 Major Warning = deduction of 1 point
+2 Major Warnings = deduction of 3 points
+3 Major Warnings = expulsion from the league
+Minor Warnings
+
+Incorrect/missing screenshot (Can be removed if the screenshot is provided later)
+Using an unregistered player
+Using a merc without permission
+Violating the Pause Rule (1st time)
+Unplayed match after match deadline (not removable)
+Using a banned weapon
+Use of non-English language (Note: Other languages are allowed if both teams are from the same country.)
+Unable to provide a requested Demo (1st time) (Can be removed if the demo is provided later)
+Flaming (1st time)
+Not showing up for a match (and a Default Loss for this match)
+Any other rule break (1st time)
+Major Warnings
+
+Missing status screenshot (after 1st time) (Can be removed if the screenshot is provided later)
+Any attempts of fraud
+Not being able to provide a requested Demo (after 1st time) (Can be removed if the demo is provided later)
+Violating the Pause Rule (after 1st time)
+Flaming (after 1st time)
+Cheating (plus a possible reduction of extra points and banning of the player involved, dependant on the situation)
+Any other rule break (after 1st time)
+
+4. MAPS
+
+ 
+
+
+4.1 5CP maps
+
+A 5CP map is a map that features 5 control points. At the beginning of a round, only the middle point can be captured by both teams, the other points are locked. The goal of both teams is to push the enemy back and capture their last point. Examples for this map type are cp_badlands, cp_granary, cp_gullywash_final1, cp_snakewater and cp_process_b10.
+
+4.1.1 Timelimit: 30 minutes
+
+Timelimit 30 has to be used for all 5CP maps.
+
+4.1.2 Winlimit: Point difference of 5
+
+If a team reaches a 5 point lead on a 5CP map, that team wins the map.
+
+4.1.3 Golden Cap: Decider round in case of a draw
+
+If the score is tied after the timelimit has been reached, a decider round (golden cap) will have to be played. If no team has won the round after 10 minutes have passed, the win will be awarded to the team controlling the middle capture point. The winner of a map that ended with a golden cap round gets 2 points, the loser gets 1 point.
+
+4.2 King of the Hill maps
+
+King of the Hill (KOTH) maps have one single point in the middle of the map. After a short time, the point unlocks and can be captured. usually, the point will have to be held for a total of 3 minutes by one team to score a point. Examples for this map type are koth_viaduct and koth_lakeside.
+
+4.2.1 Timelimit: None
+
+Timelimit 0 has to be used for all KOTH maps.
+
+4.2.2 Winlimit: First to 3
+
+If a team reaches 3 round wins on a KOTH map, that team wins the map. The system in place is called “Best of 5?. To make the win trigger automatically, please use mp_winlimit 3.
+
+4.3 Attack/Defense and Payload maps
+
+Attack/Defence and Payload maps like Gravelpit, Gorge, Steel, Badwater and Upward are played with stopwatch mode. This means the first team attacking will set a time and amount of captures, which the second team will then have to beat. Please use the correct config so the time will be tracked automatically. Each round win is considered as 1 point for the purpose of scoring.
+
+4.3.1 Timelimit: None
+
+Timelimit 0 has to be used for all A/D maps.
+
+4.3.2 Winlimit: Best of 3
+
+All A/D and Payload maps are played in a best of 3 format. This means, that the first team that wins two rounds wins the map. A 2:1 result after 3 rounds counts as a Golden Cap win.
+
+4.3.3 ABBA format
+
+A/D and Payload maps have to be played for 2-3 rounds. In the first 2 rounds the ABBA format will be used.
+
+In the case of both teams taking one round (1:1) there will be a decider round. In the first 2 rounds the teams should note the final cap time of the first team attacking. The team that has the best cap time (or more caps in the case a team did not cap all points) can choose if they want to attack or defend first in the 3rd round. Remember to reload the config between rounds, so teams can be switched.
+
+Example: Team A attacks and sets a time of 4:56. Team B then attacks and caps the last point faster then Team A did, setting the score 1:0. Next team B attacks first and sets a time of 5:28, team A then attacks and caps faster. The score is then 1:1 and a decider round will need to be played. Since Team A’s attack time of 4:56 was faster then team B’s 5:28 they can choose who attacks first.
+
+Results must be submitted as two maps (the same map)
+If you played two rounds and the match was won 2-0, enter the result as ’2-0'as result for each map
+If you played three rounds and the match was won 2-1, submit ‘2-1' as the score for each map and tick the golden cap box for both maps
+4.5 Capture-the-files maps
+
+On capture-the-files (CTF) maps each team has a suitcase with intelligence files in his base. Both teams need to defend their own files while capturing the enemy’s files and bring them to their own base. CTF maps are played as best of 3 rounds. Please use the ETF2L CTF config. Examples for this map type are ctf_turbine_pro_rc2 and ctf_doublecross.
+
+4.5.1 Timelimit: 3x 10 minutes
+
+Each round uses a timelimit of 10 minutes.
+
+4.5.2 Winlimit: First to 5, best of 3
+
+If a team reaches 5 captures on a CTF map, that team wins the round. If no team manages to capture the intelligence 5 times during the 10 minutes timelimit, the team with more captures wins the round. The first team to win 2 rounds within 3 rounds total wins the map.
+
+4.5.3 Golden Cap: Decider round in case of a draw
+
+If one or more rounds ends in a draw and neither team wins 2 rounds after 3 rounds are played, a golden cap round with a timelimit of 5 minutes and a winlimit of 1 has to be played. The first team to capture one intelligence suitcase wins the golden cap. If neither team captures the intelligence until the time runs out, the golden cap round is repeated until a winner is decided. The winner of a map that ended with a golden cap round gets 2 points, the loser gets 1 point.
+
+4.6 Deciding sides: Melee fight if teams do not agree
+
+If teams can not agree which team plays red and which team plays blu, they must perform a Heavy Fist Fight [Explanation].
+
+4.7 Map specific rules
+
+4.7.1 pl_upward: No killing during the setup time
+
+Players may not kill enemy players during the setup time.
+
+4.7.2 p_badwater: Building in BLU spawn is allowed
+
+The BLU team is allowed to place buildings next to the door inside the BLU spawn as long as the buildings can be seen and attacked by the opposing team.
+
+
+5. SERVERS
+
+ 
+
+
+5.1 Be reasonable regarding servers
+
+Both teams can agree on the server which both maps are played on, or agree to play one map on each clan’s server. If you can’t agree to play either way then the game must be played on an ETF2L league server (please contact an admin to arrange this).
+
+Make sure the server is adequate before you start – complaints cannot be made after the match.
+
+5.2 European server recommended
+
+The ETF2L is a European League, you cannot force opponents to play on non-European servers. We strongly recommend using servers located central in Europe, such as the Netherlands or Germany.
+
+5.3 Servers need to be password proteced
+
+All servers used for ETF2L matches must be password protected.
+
+5.4 Unusual server settings may be considered cheating
+
+Servers with abnormal settings may be refused for matches by the league and/or be classed as cheating.
+
+
+6. CHEATS & SCRIPTS
+
+ 
+
+
+6.1 Bug-Using is not allowed
+
+Any kind of “Bug-Using” is not allowed. Player using bugs will be punished. If you are unsure about the legality of any sneaky spot on a map or a script, please contact an admin to clarify the situation and prevent complaints from your opponent.
+
+6.2 Cheats are not allowed
+
+Any kind of cheats are not permitted. Players using cheats will be banned for 1 year.
+
+6.3 Normal Crouch Jump bind allowed
+
+Executing the normal “crouch jump” by a binding is allowed.
+
+6.4 Taunt slide bug is forbidden
+
+During a match, players may not use a combination of Taunt and Jump or taunt while falling from ledges (it affects the hitboxes).
+
+6.5 VAC Bans
+
+As of March 15, 2012, any player with a VAC ban on the Source engine will be banned for 1 year. Players with VAC bans that do not apply to Team Fortress 2 will not be affected. Players receiving VAC bans before March 15, 2012 will not be affected.
+
+
+7. ADMINS
+
+ 
+
+
+7.1 Requesting admin help
+
+To request help from an admin or to file a match complaint, please join our IRC channel #etf2l on quakenet, type !admin and wait for the next free admin to respond. Please do not add admins on Steam to ask questions or directly query them on IRC.
+If you do not have an IRC client installed on your pc you may use our webchat plugin.
+
+7.2 Admins on the staff page
+
+All active admins are shown at the staff page. When requesting help from an admin on IRC you may specify for which competition you need an admin, e.g. !admin highlander or !admin 6v6
+
+7.3 Admin discretion
+
+The ETF2L rules are enforced at the discretion of the admin team. Any complaints will be judged on a case-by-case basis and different punishments may be handed out in each case.
+
+
+EXPLANATION: “WILDCARD”
+
+Every team has a specific number of Wildcards per competition, which are used if a team has to postpone a scheduled match without their opponent’s agreement. A Wildcard has to be used no later than 15 minutes before the game is supposed to start. A Wildcard can be used by selecting the Wildcard function located on the top of the match page(Javascript must be enabled). Please try to contact your opponent if you use your Wildcard on particularly short notice.
+
+Wildcards add two weeks to the match deadline regardless of when they were used during the week. A new default date is assigned to the match on next Friday.
+
+If one team has already wildcarded a match, the other team can also wildcard it if they have a wildcard available. Matches cannot be wildcarded more than once per team.
+
+
+EXPLANATION: “MAP PICK SYSTEM”
+
+This system is used to decide maps for playoff and tiebreaker matches when specified by the competition.
+
+For any matches where one team has a higher seed (e.g. premiership playoffs), the following system has to be used. The team that picks second has an advantage over the other team.
+
+Low seed picks their home map
+High seed picks their home map
+Low seed eliminates a map
+High seed eliminates a map
+Repeat 3 & 4 until one or two maps are left
+If only one map is left, this map is the decider map. If two maps are left, the high seed picks the decider map.
+For any matches where both teams are equally seeded (e.g. tie-breaker matches, cups), the following system has to be used.
+
+Both teams need to agree on who picks first and who picks the decider map, if the number of maps is even. If the two teams can not agree, they need to perform a heavy fist fight [Explanation].
+Loser of the heavy fist fight picks their home map
+Winner of the heavy fist fight picks their home map
+Loser of the heavy fist fight eliminates a map
+Winner of the heavy fist fight eliminates a map
+Repeat 4 & 5 until one or two maps are left
+If only one map is left, this map is the decider map. If two maps are left, the winner of the heavy fist picks the decider map.
+Example:
+
+Please see specific competition rules for correct Map Pool. This example uses the Season 13 map pool (badlands, gullywash, granary, snakewater, process, turbine)
+
+1st team: “We pick badlands!” – remaining maps: gullywash, granary, snakewater, process, turbine
+2nd team: “Oh no, but ok, we pick process!!” – remaining maps: gullywash, granary, snakewater, turbine
+1st team: “Yes ok, bye bye gullywash!” – remaining maps: granary, snakewater, turbine
+2nd team: “It’s ok we remove turbine” – remaining maps: granary, snakewater
+2nd team: “Hum, we got the higher seed so our decider map will be granary then…”
+Map order for this example: badlands, process (if needed: granary).
+
+
+EXPLANATION: “MAP ELIMINATION SYSTEM”
+
+ 
+
+
+This system is used to decide maps for playoff and tiebreaker matches when specified by the competition.
+
+For any matches where one team has a higher seed (e.g. premiership playoffs), the following system has to be used. The team that eliminates second has an advantage because the first team may already eliminate one of their weak maps.
+
+Low seed eliminates a map
+High seed eliminates a map
+Repeat 1 & 2 until three or four maps are left
+Low seed picks their home map
+High seed picks their home map
+If only one map is left, this map is the decider map. If two maps are left, the high seed picks the decider map.
+For any matches where both teams are equally seeded (e.g. tie-breaker matches, cups), the following system has to be used.
+
+Both teams need to agree on who eliminates first and who picks the decider map, if the number of maps is even. If the two teams can not agree, they need to perform a heavy fist fight [Explanation].
+Loser of the heavy fist fight eliminates a map
+Winner of the heavy fist fight eliminates a map
+Repeat 2 & 3 until three or four maps are left
+Loser of the heavy fist fight picks their home map
+Winner of the heavy fist fight picks their home map
+If only one map is left, this map is the decider map. If two maps are left, the winner of the heavy fist picks the decider map.
+Example:
+
+Please see specific competition rules for correct Map Pool. This example uses the Season 13 map pool (badlands, gullywash, granary, snakewater, process, turbine)
+
+1st team: “We eliminate badlands!” – remaining maps: gullywash, granary, snakewater, process, turbine
+2nd team: “Oh no, I wanted to pick that one! Anyway, process is gone!” – remaining maps: gullywash, granary, snakewater, turbine
+1st team: “Our home map is gullywash then!” – remaining maps: granary, snakewater, turbine
+2nd team: “We pick turbine” – remaining maps: granary, snakewater
+2nd team: “I think we got the higher seed? We choose granary as decider.”
+Map order for this example: gullywash, turbine (if needed: granary).
+
+
+EXPLANATION: “HEAVY FIST FIGHT”
+
+A heavy fist fight can be used to settle arguments over map pick advantages, choice of colour or as decider round. Please only use a heavy fist fight to settle an argument when it is explicitly stated in the rules of the competition or advised by an admin.
+
+One Heavy from each team fight a melee fist fight where the winning team gets to decide which side to start on, get the map pick advantage in a situation with no higher seed, or win the decider round. No unlocks, weapon-switching, buffs or healing of any kind, taunting, camping or fleeing is allowed. Multiple heavies from each team are allowed as well, if both teams agree.
+
+
+EXPLANATION: “LOSER’S PICK”
+
+This system is used to decide maps for playoff and tiebreaker matches when specified by the competition.
+
+High seed picks the first map
+Loser of the first map picks the second map
+Loser of the second map picks the tiebreaker map (if necessary)
+For any matches where both teams are equally seeded (e.g. tie-breaker matches, cups), the following system has to be used.
+
+Both teams need to agree on the first map. If the two teams can not agree, they need to perform a heavy fist fight [Explanation].
+Loser of the first map picks the second map
+Loser of the second map picks the third map (if necessary)
+
+MAPS
+Season 14 features the following maps: cp_badlands, cp_gullywash_final1, cp_granary, cp_snakewater, cp_process_rc2
+
+Week 1: cp_badlands/cp_gullywash_final1
+Week 2: cp_badlands/cp_snakewater
+Week 3: cp_snakewater/cp_gullywash_final1
+Week 4: cp_gullywash_final1/cp_process_rc2
+Week 5: cp_process_rc2/cp_snakewater
+Week 6: cp_process_rc2/cp_granary
+Week 7: cp_granary/cp_badlands
+UNLOCKABLE WEAPONS
+Based on the feedback from the 6th Cup, we have decided to break the status quo and introduce the Cup’s unlocks into our regular 6v6 League. We believe that these carefully chosen unlocks will add more variety and tactical depth to 6v6 across all skill levels.
+
+The complete list of unlocks allowed in Season 14 is as follows:
+
+The Kritzkrieg
+The Übersaw
+Crusader’s Crossbow
+The Blutsauger
+The Overdose
+The Gunboats
+The Boston Basher
+The Pain Train
+The Escape Plan
+Cosmetic skins of allowed weapons are also allowed. Items that enable Pyrovision are banned.
+
+
+HOW TO: REMOVE YOUR TEAM
+In the case your team died/stopped playing please contact an admin in IRC or leave a comment in the respective “Dropped Teams” thread. The “Dropped Teams” thread is usually a pinned thread in the “General ETF2L” forum. [Link]
+We will set the team’s status to “dropped” and remove it from any active competitions.
+HOW TO: UPLOAD A DEMO
+You need to be team leader, deputy or war arranger of a registered team.
+Upload your demo to the site. [Link]
+After an admin has verified your demo, it will appear on our Demo Section. [Link]
+ISSUE: OPPONENT DID NOT SHOW UP OR BROKE A RULE
+If your opponent did not show up for a match do not enter the default win yourself. Only admins are supposed to enter default wins. To claim a default win, you can contact an admin through IRC, join #etf2l on quakenet and type !admin. Link the match page to the admin and show him screenshots of the scoreboard and status including some kind of timestamp (e.g. upload the screenshot to your Steam profile or open the Steam overlay that shows a clock when you take the status screenshot) or a screenshot of a conversation where your opponent clearly states that he forfeits the game. Match comments stating the opponent forfeits the match are usually the best proof.
+
+The same applies if your opponent broke a rule. Contact an admin through IRC and provide him with proof that your opponent broke a rule. The best proof is usually an STV or POV demo from the match.
+
+If you do not have an IRC client installed on your computer, use our support page.
+
+ISSUE: OPPONENT IS MARKED AS “DROPPED”
+Regular League Game: If a team drops during a Season, their results will be deleted and won’t count in the Tables
+Cup Game: A default win will be entered for you
+ISSUE: PROBLEMS REACHING YOUR OPPONENT
+If you have trouble reaching your opponent to schedule a match, you are supposed to use the Challenge System on the match page: Simply tick the challenge checkbox under the comment field and write a comment with your preferred dates and suggestions. The posted comment will be emailed to the opposition leader.
+Make sure you use the ‘My Matches’ page [Link] to propose a date and time.
+If you suggest a matchdate and your opponent does not respond, we will look at it and most likely (as long as it’s within reason) set the game to the date you suggested.
+Notice: Set default dates will not be changed unless an admin accidentally booked your team for two matches at the same time. In that case please contact an admin on IRC.
+IRC BOT “ETF2L”: FUNCTIONS
+Here are all current functions of our IRC Bot “ETF2L”:
+
+!admin (only in #etf2l) – For any kind of issues; an admin will contact you as soon as someone is available
+!results – Latest 5 verified Cup/League Results
+!fixtures – Next 5 upcoming Fixtures
+!events – Next 5 entered Events & Deadlines
+!info – League Page URL
+!hl2 <server ip> – Retrieves that server’s info
+!help etf2l watch List of all commands & explanations
+!watch [<all|none|divlist>] Sets which divisions you want to watch results/STV IPs from; can only be altered if you are opped in a channel.
+!watch See a list of divisions you are watching at this moment.
+!watch all Enter this to watch all divisions.
+!watch none Enter this to watch no divisions at all.
+!watch <divlist> Watch a specified list of divisions – Example: !watch prem 1 2a 4 (watches the premier division, division 1, 2a and all divs 4)
+Highlights published Newsposts
+Highlights League Matches with SourceTV
+Highlights verified League/Cup Results (can be changed, see above)
+Highlights Important League Announcements
+IRC BOT “ETF2L”: REQUEST
+You need to be opped in the requested channel.
+Type /invite <botname> #channelname (<botname> can be ETF2L, ETF2L2 or ETF2L3. All bots are identical)
+The bot will join after an admin confirmed your request
+If you want to have our bot removed again, please contact an admin in #etf2l
+LEAGUE DATES (SCHEDULE & GAME DEADLINES, LEAGUE EVENTS)
+All published League Dates can be found on our Events Page [Link].
+
+APPLYING FOR A SPECIFIC DIVISION FOR A ETF2L SEASON
+Any team that completed a season and applies for the next season, is guaranteed a place in the league, but for others, and for those unhappy with their Season performance, the following should help clear up what you need to do next to maximise your chances of getting into the league at the start. When you apply for a Season, you can choose which division you would like to be entered for. This is the easy bit, the hard part is justifying your decision. If you just missed out on promotion and want to go up anyway, you need to start playing games against opponents in the division you want to be playing in next season. Collect screenshots from these games and be prepared to submit them when we ask for them in a news post to staff@etf2l.org. It doesn’t matter if they’re not all comprehensive victories (although that would help), we’re looking to see where your overall skill level should be.
+
+If you’ve just started a new team and you wish to be sure of the best placement, be sure to join  and play some cups, like one-night cups. Even if you lose you’ll still get valuable experience and help your chances of getting into the league itself.
+
+Like in the first section, if you’re a new clan and think you’re good enough for one of the higher divisions, it´s a smart move to be collecting screenshots against opponents from that division or higher. Most new teams are placed in Divisions 5 and 6, if you want to be higher than that then we will need proof of your team’s ability.
+
+
+SPONSORS
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+MOST USED TAGS
+6v6 awards bans config Crack Clan cup Epsilon Epsilon eSports Esports Heaven ETF2L excello Finland France highlander Infused insomnia LAN map pool multiplay nations cup one night cup playoffs poll Premiership prize money prizes reminder rules schedule season 3 Season 9 Season 10 season 11 season 12 season 13 SNSD staff SteelSeries TCM TF2 Tt eSPORTS Ultiduo unlocks vanillatf2 vanillatv
+NEWS
+BBall Cup #5 by Tt eSPORTS now LIVE
+Season 13: Premiership Interviews #7 Retsh0ck
+Season 14, P-REC, Staff and Site Updates. Promote your Stream on TeamFortress.TV
+FORUM ACTIVITY
+More recent posts
+Predictable spy frag movie
+Sd_Hunted
+Need your Dota 2 Keys !
+TF2lobby probably down for good
+Poop's True TF2 blog
+RECENT RESULTS
+More results
+Otf vs yolo dicker	0-3
+LM vs yolo dicker	0-3
+JgB vs sup.	0-3
+>: Ó vs JgB	3-0
+>: Ó vs sup.	3-0
+VANILLATF2 STREAMS
+32 viewersHuhy
+2 viewers2C3C
+RECENT DEMOS
+More demos
+colony vs LEGO	  
+colony vs LEGO	  
+[Nuts] vs [PG]	  
+[Nuts] vs [PG]	  
+[Nuts] vs [PG]	  
+RECENT ADDITIONS
+ Crowd
+ Cool Comrades
+ Baguette
+ raped idiot
+ Team Reverto - Small sons
+
