@@ -1,0 +1,33 @@
+[17:56] <ZoidbergWill> Hey Jukkan, you there, mate?
+[18:10] <jukkan> yep
+[18:10] <jukkan> what's up
+[19:29] Disconnected (2013-01-22 19:29:31)
+[19:32] eu.shadowfire.org: CTCP/VERSION request from IRC : 
+[19:32] eu.shadowfire.org: CTCP/VERSION request from AresServ : 
+[19:32] *** Connected
+[19:32] 6 unknown connection(s)
+[19:32] +i
+[13:02] <ZoidbergWill> Hey jukkan
+[13:02] <ZoidbergWill> Will changing the fullstop's to exlamation marks break anything?
+[15:34] <jukkan> fullstop?
+[15:34] <jukkan> you mean like change .add to !add
+[15:34] <jukkan> ?
+[15:36] <jukkan> you also need to change the '.' to '!' on line 325
+[15:36] <jukkan> and unfortunately, do to same for every command 
+[15:36] <jukkan> i didn't think anyone would want to change it
+[15:37] <jukkan> so it's kind of hard coded
+[15:37] <jukkan> and a command like .rank and .top are combined inside one block 
+[15:38] <jukkan> so there's an if-else statement that if the command is .rank or .top
+[15:38] <jukkan> so those dots need to be changed too
+[15:39] <jukkan> but there's no logical explanation why you would even want to do that, except if those commands clash with some other bot's commands that you might have
+[15:39] <jukkan> dot is much faster to write than !
+[15:47] <jukkan> the first character should actually be parsed out of the first command right after line 325
+[15:47] <jukkan> so it wouldn't have to be taken into account later
+[15:48] <jukkan> like change .example to example
+[15:48] <jukkan> and then later just have if ($commands[0] eq 'example') instead of if ($commands[0] eq '.example)
+[15:49] <jukkan> so the first character could be changed from one place
+[20:03] <ZoidbergWill> Ahhh
+[20:03] <ZoidbergWill> It is just cuz conventionally here they are !'s
+[20:03] <ZoidbergWill> Even though .'s are faster.
+[20:04] <ZoidbergWill> I don't mind changing them all, I can do taht
+[20:04] <ZoidbergWill> *that

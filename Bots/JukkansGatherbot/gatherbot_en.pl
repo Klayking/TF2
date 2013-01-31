@@ -104,7 +104,7 @@ sub connected {
     # Auth to Q if auth info was given
     if ($authname ne '' && $authpw ne '') {
         $self->say(
-            who =>     'Q@CServe.quakenet.org',
+            who =>     'NickServ',
             channel => 'msg',
             body =>    "AUTH $authname $authpw",
             address => 'false'

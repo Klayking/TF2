@@ -1,0 +1,9 @@
+|  101| Refills all weapons and health (like Resupply).|
+|  102| Spawns human skull.|
+|  106| Identifies model being aimed at.|
+|  107| Identifies texture being aimed at.|
+|  200| Plays holster/draw animations.|
+|  201| Sprays your selected spray.|
+|  202| Plays a custom sound to players who have set cl_customsounds 1. The sound is configured using cl_soundfile filename.wav.|
+|  203| Removes object being aimed at (like ent_remove and ent_fire _____ kill, but doesn't print "Removed [entity name] (Name)" in the console.|
+|  221-239| If the player is a Spy, starts the disguise process. 221-229 are for a RED disguise, while 231-239 are for a BLU disguise (230 is non-functional). The final digit selects the disguise class, but this number does not correspond to the class numbers shown on the class selection screen.|

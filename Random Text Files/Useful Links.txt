@@ -17,3 +17,7 @@ Image must be exactly 640x125px
 
 M0nster's Guide to Medic (2011)
 http://pastebin.com/0M7VCtHb
+
+IRC plugins
+http://forums.alliedmods.net/showthread.php?t=67017
+http://forums.alliedmods.net/showthread.php?t=67640

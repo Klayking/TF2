@@ -1,0 +1,392 @@
+I would like to announce the first ever TF2CSA Summer Ladder.
+
+There are no sponsored prizes, but this is a competitive tournament, so there are some general rules, to make sure enjoyment for all involved.
+
+Basic Format
+
+Clans are given a week to register.
+
+At the end of that week the teams are randomly ordered into a list, which becomes the ladder.
+
+To move up a spot: you have to beat the clan directly above you, by challenging them. If the managers from the clans do not organise a match within 7 days, after the challenge is posted, unless the managers agree to postpone, then the defending clan is dropped from the ladder, and the lower team takes their slot.
+
+One change in roster is allowed per team.
+
+2 subs are allowed per game, but the enemy captain must agree to the substitution.
+
+A team can register late, but is then added to the bottom of the ladder, and may work their way up from there.
+
+General Rules
+1. League Format
+
+
+1A. Overview
+
+
+The ozfortress league is run as an 6v6 Title Holder format. Matches are scheduled fortnightly pairing up clans of similar 'ranks' where ranks are based on your win streak. This format is flexible and allows for clans disbanding and new entrants easily. It is split into 2 divisions to separate skill and promotion and relegation will allow clans to find their correct division over time.
+
+1B. Rankings
+
+
+Teams in the ozfortress league are ranked in the following order:
+Their divisional wins for/against record
+Their points scored for/against record
+1C. Scheduling
+
+
+ozfortress league matches will be scheduled using the following guidelines:
+The two teams with the longest winning streaks will be scheduled to play a title challenge match against each other with the winner going on to face the title holder in a title match next round.
+All other matches will be scheduled with the winners from the previous week facing the other winners and vice versa for the losers in a tournament like fashion based on their current ranking. If there is an odd number of winning and losing teams, the lowest ranked winner will face the highest ranked loser. All effort will be made to avoid teams playing each other too regularly.
+It should be noted that the scheduling process is a guideline only and ozfortress league administrators reserve the right to adjust the process in the interests of the league at their discretion.
+
+2. Match Scheduling
+
+
+
+2A. Round Schedule
+
+ozfl6's and ozfl8's will be run on 2 week rounds. With formats overlapping each other on 1 week intervals.
+
+Match schedules will be posted every second week Friday night.
+
+Match discussion threads will then be posted in the match discussion forum for teams to negotiate a suitable date and time for their match.
+
+Teams will then have until 11:59pm on the second Monday night to conclude negotiation and set a date and time for the match
+
+Matches must be organised to be played before 11:00pm on the second Thursday so that admins have enough time to complete the match schedules for the next round.
+
+To summarise:
+
+Friday: ozfl6's Round N starts.
+Saturday: ---
+Sunday: ---
+Monday: ---
+Tuesday: ---
+Wednesday: ---
+Thursday: ---
+--------------------------------------------------------------------------------------------
+Friday: ---
+Saturday: ---
+Sunday: ---
+Monday: Final warning for teams in ozfl6's who haven't yet finished organising their match for Roun N. They have until 11:59pm tonight to set a date and time for their matches.
+Tuesday: ---
+Wednesday: ---
+Thursday: Teams in ozfl6's have until 11:00pm to finish their matches for Round N.
+--------------------------------------------------------------------------------------------
+Friday: ozfl6's Round N+1 starts.
+
+2B. Acceptable Match Times
+
+
+Acceptable match start times for all ozfortress league matches are as follows:
+
+Not During Day Light Saving:
+7:30pm AEST to 10:30pm AEST for all days during the round schedule (see section 2A)
+
+During Day Light Saving:
+8:00pm AEDT to 10:30pm AEDT for all days during the round schedule (see section 2A)
+
+2C. Negotiating Match Times
+
+
+Once the match schedule for the round has been posted, teams can begin negotiating with each other to arrange a time and date for their match.
+
+There are two ways this can be done:
+Teams can make contact with each other through the ozfortress clan leaders Steam community group (link) or over other mediums such as IRC if that is more convenient to organise their matches, but the arranged date & time must be posted in the match discussion thread.
+The lower ranked team is to initially propose (in the match discussion thread) three acceptable (see section 2B) time and dates for the match and also mention if they are able to organise an acceptable server (see section 5B) for them. The higher ranked team must then reply and either accept one of the proposed dates or, if none are acceptable, propose three new dates and if they are able to organise a server for them. (Repeat if needed until an agreement on the date and time is reached.)
+If the other team is unresponsive and it is proving difficult to get in contact with the other team or they are not making a reasonable effort to organise the match with you, please bring it to the attention of the ozfortress league administrators immediately.
+
+2D. Rescheduling
+
+
+Matches must be played within the time frame outlined in section 2A. Matches can only be rescheduled to a date within that time frame.
+
+2E. Forfeits
+
+
+Forfeits will not be acceptable under any circumstances in the ozfortress league. Teams that have more than two non-technical forfeits recorded against them in a twelve (12) week period will be removed from the league and will only be accepted back if assurances are given that it will not happen again in the future.
+
+It is the team’s responsibility to contact the league administrators as soon as possible if there is a change in circumstances that will affect your team’s ability to field a team each round. If it’s a temporary problem (e.g. if a number of your team will be absent next round) please contact an admin either before the round schedule is posted or not too long after. The schedule will be changed to reflect your inability to play that round. If it’s a long term problem please contact an admin and your teams status will be changed to inactive.
+
+Teams will have a forfeit recorded against them if they
+Cannot be contacted to arrange for a match to be played
+Do not make a reasonable effort to organise a match
+Do not show up for an arranged match
+Do not have the minimum number of eligible players ready to play fifteen (15) minutes after the arranged match time
+Refuse to play in a match that is organised and setup according to the rules
+Leave the match before a final result has been determined
+Fall below the minimum number of eligible players for longer than five (5) minutes for any reason not due to technical problems
+Fail to take immediate action to correct any breach of the class restriction rules
+Neither team submits the results within two (2) hours of the match ending
+When a forfeit is recorded the team they are scheduled to play will be awarded a default win unless both teams forfeited.
+
+2F. Technical Forfeits
+
+
+A technical forfeit will be awarded in the following circumstances
+Technical problems (e.g. Steam connectivity issues) prevent the match being played at the arranged time and the match cannot be rescheduled to a later date within the acceptable time frame outlined in section 2A.
+Server/Network Problems render the server unplayable and an alternative server cannot be found nor match rescheduled to a later date within the acceptable time frame outlined in section 2A.
+In the case of a technical forfeit being awarded, no result will be recorded for or against either team. Technical forfeits, unlike regular forfeits explained in section 2E, do not count against a team.
+
+3. Matches
+
+
+
+3A. Player Eligibility
+
+
+To be considered as eligible, players must be:
+Registered and be listed on their team's roster on ozfortress
+Have a valid Steam ID set in their user profile (Set your Steam ID here)
+Registered before the match schedules were posted for the round or before 6 days of when the match occurs (whichever is the shorter range). A player using this circumstance must not invalidate Rule 3AA.
+Players that do not meet all of the above criteria will be subject to the mercenary rules outlined in section 3C.
+
+3AA. 6 Day rule exception
+
+This rules has an exception that a player can not play for 2 different clans in a single round. An example being Player P is in Clan C and plays a match in ozfl round R. He leaves Clan C and joins Clan D during the same ozfl round R. Clan D play their match late in Round R meaning Player P has been in Clan D for >6 days and is considered a player. Player P is not allowed to play for Clan D until the next Round R+1 since he played for Clan C in Round R.
+
+3B. Minimum Number of Eligible Players
+
+For ozfl6's:
+Teams must have a minimum of five (5) eligible (i.e. does not include any mercenaries) players ready to start or continue a match.
+
+3C. Mercenaries
+
+
+Any player regardless of their status (i.e. trialer, slut, friend, new member not on roster) will be regarded as a mercenary in the context of the rules if they do not meet the criteria of an eligible player outlined in section 3A and children of 3A.
+
+A mercenary can be used without the permission of the other team if they are a member of a team with a lower ranking than the team they will be playing for. If the proposed mercenary is not a member of any team participating in the ozfortress league or they are ranked higher than the team they will be playing for, then they can only be used with the permission of the other team.
+
+The following rules also apply in both circumstances:
+It is clearly and honestly communicated to the other team who the mercenary is and why they are being used
+A mercenary cannot be used in place of an available eligible player
+Only one mercenary can be used by a team per match
+3D. Demo Recording
+
+
+Teams should attempt to arrange for a recording STV to be present for their match. If one cannot be arranged or the STV does not record or the recording can not be later retrieved, then the following rules apply
+In the case of a title defence or title challenge match, all players must record a personal demo and retain the demo for two (2) weeks in case there is a dispute.
+If the match is not a title defence or title challenge match, then only one (1) person from each team will need to record a personal demo in case there is a dispute.
+3E. Spectators
+
+
+Spectators are not acceptable under any circumstances (except in the case of match shoutcasters, in which case they are allowed as long as both teams consent) once the match has started. Teams with more than the required number of players present in the server are to ask the player(s) not taking part in the match to leave immediately.
+
+If a team needs a player replacement after the match has started, the player that is being replaced must leave the server before the replacement joins. A replacement joining the server and becoming a spectator while waiting for the other player to leave is prohibited.
+
+3F. Sportsmanship
+
+
+Teams participating in the ozfortress league are required to conduct themselves in a sportsmanlike manner once the match has started. Global chat is frowned upon unless it's limited and friendly in nature. Any abusive chat is prohibited.
+
+3G. Class Restrictions
+
+The following class restrictions apply in the ozfl6's:
+Medic: Maximum of one (1)
+Demoman: Maximum of one (1)
+Heavy: Maximum of one (1)
+Engineer: Maximum of one (1)
+Spy: Maximum of one (1)
+Scout: Maximum of two (2)
+Sniper: Maximum of two (2)
+Soldier: Maximum of two (2)
+Pyro: Maximum of two (2)
+
+These must be enforced using the tf_tournament_classlimit_X commands. The full listing of these can be found in the official ozfl configs(coming soon).
+
+3H. Critical Hits, Damage Spread, Fixed Spread and Weapon Unlocks
+
+
+
+The status of critical hits will not be put to a captains vote. All weapon unlocks will be allowed until admins have had a chance to decide whether any new unlocks unbalance competitive matches.
+
+ozfl:
+Critical Hits: Off
+Damage Spread: Off
+Fixed Weapon Spreads: On
+Weapon Unlocks (minus Sandman and Gunboats): On
+The server administrator for ozfl matches must make sure that the server variables "tf_weapon_criticals 0", tf_use_fixed_weaponspreads "1" and "tf_damage_disablespread 1" are set for their match.
+
+3I. Scoring Maps
+
+3IA. Time Based Maps
+cp_dustbowl
+Tournament mode is to be used however mp_tournament_stopwatch is to be turned OFF.
+Both teams are to complete their attacking run (either capturing out completely or until their time runs out). Captains must make sure to take times down as they capture each point as in the situation where points are drawn, whoever captured the final successfully capped point earlier will win.
+Teams may decide who attacks first but is there is any dispute the Home Team (the team listed first in the match discussion) has the right to go first.
+When reporting the score you should report how many points each team scored. Drawn points will not be rounded up, for example 6-6 is to be reported 6-6 (not 7-6).
+
+cp_gravelpit
+ozfl uses the scoring format of ABBA to ease calculation of results. A small reminder of what ABBA is: With stopwatch ON. The home team will attack first, the away team will then respond to the home teams attack. Once completed the winning team will receive ONE (1) point. The teams will then switch sides and the away team will set the stopwatch time first, following by the home teams response. The winner of this will receive one point. If drawn on 1-1, The home team will attack first again once more and the away team will reply to the home's time. The score is to be reported as how many rounds you win. eg/ 2-1, 2-0.
+
+3IB. Mirrored Maps
+
+Maps such as cp_granary, cp_well, cp_labor, cp_gates_granary and cp_badlands are to be played with tournament mode on (mp_tournament 1). And played until either a team gets six (6) caps or the 30minutes are up.
+
+3J. Draws
+
+
+In the case of a drawn result at the conclusion of the match (once 30mins are up), on all maps except for dustbowl, goldrush and gravelpit (and other maps on the map schedule that are marked as time scored), the map will immediately be restarted and match started once both teams are once again ready and the first team to win the first round played will be declared the winner.
+
+When reporting results for matches that were resolved after being drawn, report the scores after regular time with an added extra point to the winning team (e.g. 5-5 after regular time, report the results as 6-5 in favour of the team that won the extra round). On maps where the winner is decided on time, and granary was used as a draw breaker, report the results as 1-0 in favour of the winning team as usual.
+
+3K. Pre-match Responsibilities
+
+
+The team who has the responsibility of organising the server should set up the server for the match with the required settings outlined in section 5A five (5) to ten (10) minutes before the organised start of the match.
+
+Once the server is ready, contact the other team via the prior agreed method during the match time negotiation and give them the appropriate server details.
+
+Both teams should be in the server and ready to start the match no later than fifteen (15) minutes after the agreed match start time.
+
+3L. Post-match Responsibilities
+
+
+For the ozfortress league to run smoothly, timely and accurate reporting of results at the conclusion of all matches is required. At the end of the match, both teams must reply to the match discussion thread with the results (attach any scoreboard screen shots if available) within two (2) hours of the match ending. If only one team submits results, then they will be accepted without verification, so make sure you either confirm the posted results or challenge them if they are incorrect.
+
+In the case of neither team submitting results, a forfeit will be recorded against both teams.
+
+3M. Match Arrangements
+
+
+Teams can form an agreement to override some of the ozfortress league rules (e.g. to play with crits, or to play with different class restrictions) with the following exceptions:
+The match must still be organised and played according to the round schedule (section 2A) and match negotiation rules (section 2C)
+The map played cannot be changed.
+The match still must be played according to the cheat and exploit rules (section 4)
+The match still must be played according to the demo recording rules (section 3E)
+Matches must be played to their format type (ozfl8's = 8v8, ozfl6's = 6v6).
+Teams are under no obligation to accept any requests to override the rules for their match and any teams caught trying to pressure teams to accept them will be punished.
+
+4. Cheating, Exploits and Bans
+
+4A. Exploits
+
+Exploiting game or map bugs or flaws for an unfair advantage, whether they are listed in the rules or not is prohibited.
+
+The following is an incomplete list of known unfixed exploits:
+Exploiting flaws in map design to enter areas that put you underneath or above the map
+Building Sentry Guns, Dispensers or Teleporters in unbuildable areas
+Shooting through gates or walls during the setup phase
+Using the the map entity bug specific to the red side of the map on cp_well to jump over the trains
+Using scripts, macros or key combinations that allow you to bypass movement restrictions (e.g. the "Mega Jump" exploit)
+Spamming +duck while jumping to alter hitboxes.
+Any other script which is deemed disruptive to hitboxes or gameplay.
+The following are not considered exploits:
+cp_well: Rocket or pipe jumping over or onto the trains at the sides of the middle point to attack the enemy during the setup phase
+cp_well: Shooting over, around or below the trains at the sides of the middle point during the setup phase
+If you're not sure if something is considered an exploit or not please contact an admin and request a ruling be made on it.
+
+4C. Third Party Software
+
+
+The use of any third-party addons, hooks, programs or wrappers that interact with or alter the Team Fortress 2 client, its appearance or behaviour for the purposes of gaining an unfair advantage are banned.
+
+4D. Malicious Server Administration
+
+
+The use of any server commands, variables or plugins for the purposes of gaining an unfair advantage or to interfere with an ozfortress league match are prohibited. Once the match is underway, the server administrator must let the match run its course and not make any changes without the consent of both teams.
+
+4E. Steam Account Sharing
+
+
+A Steam account may only be used by its owner in ozfortress league matches. Sharing your login details with a third party for use in ozfortress league matches is prohibited.
+
+4F. Probation
+
+Certain situations will arise where players or teams will be put on probation. What this means is that the player or team who is on probation must provide extra information for every match they play which falls inside the probation period.
+
+Probation for single players: When a player is put on probation, they are expected to upload a personal demo for every match they play in ozfl during the probation period. In addition to this for every ozfl match that is played by a team who has a member of their roster under probation, they must produce a screen shot of console after they have typed "status". In the event a team does not produce a valid screen shot, the whole team will be put on probation and the already probationed player/s will be banned for 1 Round after which they will return to finish their probation period.
+
+Probation for teams: When a team is put on probation, they are expected to produce a screen shot of console after they have typed "status". Failing this scenario the probation team will be penalised, ranging from the forfieture of a match to being removed from the competition.
+
+Situations that call for probation: 
+Numerous complaints about a person cheating via aimbot, wallhacks, game mechanic exploits, excessive and disruptive scripts, etc.
+Excessive bad sportsmanship from a team during any part of a match (from organising through to post-game conversations (in server)).
+Teams using illegal players.
+Teams have a banned player on their roster.
+All Probation Material should be rarred or zipped then uploaded here and not published. The admins will review the demo/screenshot then delete it after viewing.
+
+
+4F. ozfortress forum bans
+
+People must remember that this competition is run as the websites competition. Therefore being banned from the website will now mean you will be banned from ozfl during that ban period. The exceptions to this will be if it is your first ban and if you were banned for non-excessive actions. All bans will be informed in the ozfl forum and to the clan leader (or another member if the leader was banned) of the person who was banned).
+
+5. Servers
+
+5A. Server Configuration
+
+
+Settings that must be changed from their default values:
+mp_timelimit 30 // (defaults to 0)
+mp_tournament 1 // (defaults to 0)
+mp_autoteambalance 0 // (defaults to 1)
+mp_idledealmethod 0 // (defaults to 1)
+mp_idlemaxtime 0 // (defaults to 3)
+mp_teams_unbalance_limit 0 // (defaults to 1)
+Server settings that must be left at their default values:
+mp_disable_respawn_times 0
+mp_forcecamera 1
+mp_fraglimit 0
+mp_friendlyfire 0
+mp_maxrounds 0
+mp_respawnwavetime 10
+mp_winlimit 0
+sv_alltalk 0
+sv_cheats 0
+sv_consistency 1
+sv_pausable 0
+sv_pure 2 // can be 1 or 2 (defaults to 1)
+tf_birthday 0
+5B. Acceptable Servers
+
+
+To be regarded as acceptable, servers must
+Be hosted on a dedicated, non-residential connection and be able to handle the bandwidth for at least sixteen (16) players
+Must be physically hosted in Australia unless the match is between 2 New Zealand based teams.
+If opposing captains cannot reach an agreement on an acceptable server then ozfortress league admins dictate the game server to be used.
+5C. Foreign Teams
+
+
+While all matches must be played on an Australian server, if the match involves a foreign team and there is an alternative Australian server available to be used that meets the acceptable server criteria outlined in section 5B and would make for a fairer playing field, then it must be used. It is the foreign team's responsibility to bring this to the attention of the other team when negotiating the match details and to book or organise the server.
+
+6. Captains Forum
+
+6A. Voting
+
+From time to time, the administrators will create threads in the forum for voting on various subjects such as: game format changes, and class restrictions. 
+
+Clan captains and representatives with access should make sure they regularly check the captains forum as it will be the main outlet for communication between the administrators and the participating teams on issues concerning the ladder.
+
+Each clan will only have one vote, if multiple members from the same clan vote, only the first vote will be considered.
+
+6B. Lodging a Dispute
+
+Captains wishing to lodge a dispute with the administrators against another team, individual, administrator conduct or against the rules of the should create a new thread in the forum.
+
+Give the thread title a suitable name and include the following information:
+Who or what you're lodging the dispute against
+The date and time that the event occurred that you're disputing (if applicable)
+Describe in detail what you're lodging your dispute against (e.g. what rules you think were broken) and include all supporting evidence or information to back your claim
+
+Disputes must include a reasonable amount of supporting evidence before the administrators will make in depth investigations. The disputes forum is not the place for encouraging administrator fishing expeditions into alleged misconduct with hearsay or rumors, you must provide concrete evidence and information before any action will be taken.
+
+Disputes must be reported within 24hours of the event (if applicable) to give the administrators enough time to investigate and make a ruling on the dispute.
+
+7. Joining/Leaving ozfl
+
+7A. Joining ozfl
+
+Any team may join the ladder, all they need to do is contact a ladder admin with the required information. However to improve stability within the competition in the aim to not inconvinience other teams we have established that no one captain can enter more than one team per three month period.
+
+7B. Leaving ozfl
+
+Teams may leave the ladder at anytime. This can be done by informing a ladder admin. However we would prefer if teams could play out their existing matches as not to inconvenience other teams in the competition.
+
+If the captains of a leaving team do not inform an admin at the earliest time possible and admins are forced to hear about the news from a third party, all captains of the leaving team will be punished. Such punishment will be that they will not be allowed to enter another clan into the ladder.
+
+8. Pausing ingame
+
+Pausing during a match will now be allowed. Under the following conditions. Each team may pause once per match maximum and for a time period of no longer than 5 minutes. BOTH teams must agree to the pause and BOTH teams must give the all clear to un-pause. 
+
+To pause: typing "pause" in rcon will pause the server.
+To unpause type "pause" again in rcon.
