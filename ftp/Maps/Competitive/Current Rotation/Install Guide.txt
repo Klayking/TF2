@@ -1,0 +1,10 @@
+Step 1: Download all 3 maps.
+
+Step 2: Unzip the maps.
+
+Step 3: Copy the unzipped maps to "Steam/steamapps/username/team fortress 2/tf/maps
+
+(Where username is your Steam username of course)
+
+Step 4: Pat yourself on your back, you've done a good job. The community thanks you.
+
